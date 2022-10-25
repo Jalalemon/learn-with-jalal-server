@@ -1,34 +1,34 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "HTML"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "React"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Bootstrap"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name":"Css" 
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "PHP" 
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Data"
     },
     {
       "id": "07",
-      "name": "Arts"
+      "name": "All News"
     },
     {
       "id": "08",
-      "name": "All News"
+      "name": "java script"
     }
   ]
