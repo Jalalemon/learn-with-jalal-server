@@ -53,7 +53,7 @@
     "picture": "https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?w=1380&t=st=1666696668~exp=1666697268~hmac=b6dd028e11ebb22febd9debced4c58ca483249a73113d3c152c35920bcc330a9",
     "age": 29,
     "eyeColor": "blue",
-    "name": "Potter Ross",
+    "name": "HTML",
     "gender": "male",
     "company": "FLYBOYZ",
     "email": "potterross@flyboyz.com",
@@ -98,7 +98,7 @@
     "picture": "https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg",
     "age": 30,
     "eyeColor": "blue",
-    "name": "Hilary Byers",
+    "name": "REACT",
     "gender": "female",
     "company": "PHOTOBIN",
     "email": "hilarybyers@photobin.com",
@@ -143,7 +143,7 @@
     "picture": "https://t4.ftcdn.net/jpg/04/20/50/99/240_F_420509939_4qvojQXtaVp5C1a61LVUTfZTZnIHAFC5.jpg",
     "age": 38,
     "eyeColor": "blue",
-    "name": "Tia Evans",
+    "name": "BOOTSTRAP",
     "gender": "female",
     "company": "TYPHONICA",
     "email": "tiaevans@typhonica.com",
@@ -188,7 +188,7 @@
     "picture": "https://t4.ftcdn.net/jpg/04/05/51/55/240_F_405515572_p2hNvOIUTC482pjtpWaEGTwRDcryRXG6.jpg",
     "age": 31,
     "eyeColor": "blue",
-    "name": "Kristin Woodard",
+    "name": "CSS",
     "gender": "female",
     "company": "NORALI",
     "email": "kristinwoodard@norali.com",
@@ -233,7 +233,7 @@
     "picture": "https://as2.ftcdn.net/v2/jpg/05/36/79/17/1000_F_536791766_9RecP5EZeofYkUGgoMfAZnNJpILvDBq7.jpg",
     "age": 25,
     "eyeColor": "brown",
-    "name": "Perry Rodriquez",
+    "name": "PHP",
     "gender": "male",
     "company": "SHEPARD",
     "email": "perryrodriquez@shepard.com",
@@ -276,6 +276,96 @@
     "isActive": false,
     "balance": "$2,134.21",
     "picture": "https://t3.ftcdn.net/jpg/04/17/04/60/240_F_417046021_lnufqcwLFedBEZEStas5n0xr1itkyqqa.jpg",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "DATA",
+    "gender": "female",
+    "company": "SARASONIC",
+    "email": "brianabird@sarasonic.com",
+    "phone": "+1 (994) 461-3542",
+    "address": "758 Hope Street, Driftwood, Federated States Of Micronesia, 2376",
+    "about": "Proident dolor adipisicing duis proident cillum aliqua elit adipisicing irure adipisicing culpa proident. Consequat cupidatat anim excepteur veniam anim. Eiusmod consectetur duis occaecat do amet. Mollit nostrud excepteur quis culpa enim esse Lorem.\r\n",
+    "registered": "2019-03-03T03:50:37 -06:00",
+    "latitude": -31.229145,
+    "longitude": 128.512021,
+    "tags": [
+      "incididunt",
+      "deserunt",
+      "et",
+      "culpa",
+      "dolor",
+      "ea",
+      "aliquip"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aimee Wilkerson"
+      },
+      {
+        "id": 1,
+        "name": "Murray Parks"
+      },
+      {
+        "id": 2,
+        "name": "Tate Cardenas"
+      }
+    ],
+    "greeting": "Hello, Briana Bird! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "63576fa19528fce4f1fce38a",
+    "index": 7,
+    "guid": "f49ad68f-7a42-4c37-9c68-2579149e339c",
+    "isActive": false,
+    "balance": "$2,134.21",
+    "picture": "data:image/jpeg;base64,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",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "JAVA",
+    "gender": "female",
+    "company": "SARASONIC",
+    "email": "brianabird@sarasonic.com",
+    "phone": "+1 (994) 461-3542",
+    "address": "758 Hope Street, Driftwood, Federated States Of Micronesia, 2376",
+    "about": "Proident dolor adipisicing duis proident cillum aliqua elit adipisicing irure adipisicing culpa proident. Consequat cupidatat anim excepteur veniam anim. Eiusmod consectetur duis occaecat do amet. Mollit nostrud excepteur quis culpa enim esse Lorem.\r\n",
+    "registered": "2019-03-03T03:50:37 -06:00",
+    "latitude": -31.229145,
+    "longitude": 128.512021,
+    "tags": [
+      "incididunt",
+      "deserunt",
+      "et",
+      "culpa",
+      "dolor",
+      "ea",
+      "aliquip"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aimee Wilkerson"
+      },
+      {
+        "id": 1,
+        "name": "Murray Parks"
+      },
+      {
+        "id": 2,
+        "name": "Tate Cardenas"
+      }
+    ],
+    "greeting": "Hello, Briana Bird! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "63576fa19528fce4f1fce38a",
+    "index": 8,
+    "guid": "f49ad68f-7a42-4c37-9c68-2579149e339c",
+    "isActive": false,
+    "balance": "$2,134.21",
+    "picture": "https://media.istockphoto.com/photos/businessman-trading-online-stock-market-on-teblet-screen-digital-picture-id1311598658?b=1&k=20&m=1311598658&s=170667a&w=0&h=Ln_dpeXRkCDCZjuqOe2r7AlWP29xHFbc9wyKzxajloA=",
     "age": 40,
     "eyeColor": "brown",
     "name": "Briana Bird",
